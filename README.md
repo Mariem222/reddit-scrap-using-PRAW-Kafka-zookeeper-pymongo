@@ -12,7 +12,6 @@ Kafka for message queuing, Zookeeper for distributed coordination, and PyMongo f
 2. [Configuration](#configuration)
 3. [Usage](#usage)
 4. [Contributing](#contributing)
-5. [Results](#results)
 
 ## Prerequisites
 
@@ -77,7 +76,6 @@ finally being stored in your mongo db:
 
 Feel free to contribute by opening issues or submitting pull requests. Any contributions are welcome!
 
-## Results
 
 
 
